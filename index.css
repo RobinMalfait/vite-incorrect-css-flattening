@@ -1,0 +1,6 @@
+.foo {
+  :where(& > .bar) {
+    color: red;
+  }
+}
+

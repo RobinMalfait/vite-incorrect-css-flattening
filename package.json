@@ -1,0 +1,16 @@
+{
+  "name": "vite-incorrect-css-flattening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build && vite preview"
+  },
+  "keywords": [],
+  "author": "Robin Malfait",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.3"
+  }
+}
